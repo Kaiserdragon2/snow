@@ -2,8 +2,13 @@
 <resources>
     <string name="changelog_date">2024.08.25</string>
     <string-array name="changelog">
-        <item>more new icons</item>
-        <item>set request limit to 2 icons</item>
+        <h3>10.0.5</h3>
+     <h6>Released: Aug 5, 2024</h6>
+     🌈 Another special release, we\'ve reached the <strong>10k</strong>!
+     🎉 <strong>350</strong> new and updated icons!
+    ⛅ Support for <strong>Breezy Weather</strong> widgets.
+🔥 <strong>10400</strong> icons in total!
+
     </string-array>
 
 </resources>
